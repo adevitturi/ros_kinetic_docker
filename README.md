@@ -1,13 +1,13 @@
 # ROS Kinetic Docker
 Docker with ROS Kinetic to communicate with Ros-java.
 
-# Build Docker image
+## Build Docker image
 ```
 chmod 555 build.sh run.sh
 ./build.sh
 ```
 
-# Run the image
+## Run the image
 ```
 ./run.sh
 ```
